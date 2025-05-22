@@ -1,3 +1,4 @@
 /target
 src/main.rs
 .vscode/
+make_projects.bat
