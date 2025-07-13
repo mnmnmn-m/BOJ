@@ -9,19 +9,4 @@ a, b값이 작다면 피보나치 수열의 점화식을 통해 계산해주면 
 
 그런데, 이 선형점화식은 행렬곱의 형태로 바꿀 수 있습니다!
 
-\[
-\begin{bmatrix}
-f_n \\
-f_{n-1}
-\end{bmatrix}
-=
-\begin{bmatrix}
-1 & 1 \\
-1 & 0
-\end{bmatrix}
-\cdot
-\begin{bmatrix}
-f_{n-1} \\
-f_{n-2}
-\end{bmatrix}
-\]
+$\[\begin{bmatrix}a & b \\c & d\end{bmatrix}\]$
