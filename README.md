@@ -1,7 +1,7 @@
 # BOJ 풀이
 
 - 백준 풀이 모음
-- 사용 언어: C, python, Rust, etc.
+- 사용 언어: Rust, python
 
 ## 폴더 구조
 ```
